@@ -9,15 +9,18 @@ Walmart’s Sales Strategy Manager faces challenges with complex reports and lim
 - Percentage change in sales
 - Impact of markdowns, especially during holidays
 - Performance distribution across store types
+  
 ## DATA SOURCE
 <a href="https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr">kaggle
 # SKILLS/CONCEPTS DEMONSTRATED
 - Data Importation & Integration: Imported multiple CSV files into SQL using Python.
 - SQL Querying & Optimization: Utilized JOINS, CTEs, subqueries, and other functions for in-depth analysis.
 - Data Aggregation & Trend Analysis: Applied aggregation techniques to unravel sales trends and performance insights.
+  
 # DATA IMPORTATION
 Imported CSV files into SQL using python.<a href="https://github.com/giftekpen/WALMART-SALES-ANALYSIS/blob/main/Csv%20import%20to%20sql.ipynb">View Code
 
+# VALIDATION – ANALYZING THE POTENTIAL RETURN ON INVESTMENT (ROI)
 For this analysis, I conducted a comprehensive evaluation of Walmart's sales performance using SQL. The analysis focused on key metrics to assess the impact of markdowns, identify sales trends, and evaluate store performance. Below is a breakdown of the calculations and methodologies used:
 
 - Monthly Average: Calculated to smooth out sales trends and identify underlying patterns over time.
