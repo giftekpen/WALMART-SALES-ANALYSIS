@@ -16,4 +16,4 @@ Walmart’s Sales Strategy Manager faces challenges with complex reports and lim
 - SQL Querying & Optimization: Utilized JOINS, CTEs, subqueries, and other functions for in-depth analysis.
 - Data Aggregation & Trend Analysis: Applied aggregation techniques to unravel sales trends and performance insights.
 # DATA IMPORTATION
-Imported CSV files into SQL using python.
+Imported CSV files into SQL using python.<a href="https://github.com/giftekpen/WALMART-SALES-ANALYSIS/blob/main/Csv%20import%20to%20sql.ipynb">view code
