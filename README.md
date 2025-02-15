@@ -10,4 +10,4 @@ Walmart’s Sales Strategy Manager faces challenges with complex reports and lim
 - Impact of markdowns, especially during holidays
 - Performance distribution across store types
 ## DATA SOURCE
-https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr
+<a href="https://www.kaggle.com/datasets/gustavoserafim/walmart-recruiting-store-sales-forecasting-gsr">kaggle
