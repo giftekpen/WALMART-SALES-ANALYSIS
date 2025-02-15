@@ -33,5 +33,5 @@ For this analysis, I conducted a comprehensive evaluation of Walmart's sales per
 These calculations provide actionable insights into sales trends, the effectiveness of markdown strategies, and the impact of external factors like holidays. The findings enable data-driven decision-making to optimize revenue, pricing strategies, and inventory management.
 
 # PROJECT
-SQL CODE
+<a href="https://github.com/giftekpen/WALMART-SALES-ANALYSIS/blob/main/WALMART%20SQL%20PROJECT%20DONE.sql">SQL CODE
 
