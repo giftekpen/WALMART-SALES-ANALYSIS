@@ -17,3 +17,15 @@ Walmart’s Sales Strategy Manager faces challenges with complex reports and lim
 - Data Aggregation & Trend Analysis: Applied aggregation techniques to unravel sales trends and performance insights.
 # DATA IMPORTATION
 Imported CSV files into SQL using python.<a href="https://github.com/giftekpen/WALMART-SALES-ANALYSIS/blob/main/Csv%20import%20to%20sql.ipynb">View Code
+
+For this analysis, I conducted a comprehensive evaluation of Walmart's sales performance using SQL. The analysis focused on key metrics to assess the impact of markdowns, identify sales trends, and evaluate store performance. Below is a breakdown of the calculations and methodologies used:
+
+- Monthly Average: Calculated to smooth out sales trends and identify underlying patterns over time.
+- Percentage Change in Sales: Tracked to measure growth or decline in sales performance across periods.
+- Markdown Effectiveness: Analyzed by comparing sales performance before and after markdowns to evaluate their impact on revenue.
+- Holiday Sales Impact: Assessed by comparing sales during holiday periods to non-holiday periods, highlighting the influence of holidays on performance.
+- Evaluated through correlation analysis by comparing weekly sales with external factors.
+- Performance Distribution Across Store Types: Evaluated to identify top-performing stores and understand how different store types contribute to overall sales.
+
+These calculations provide actionable insights into sales trends, the effectiveness of markdown strategies, and the impact of external factors like holidays. The findings enable data-driven decision-making to optimize revenue, pricing strategies, and inventory management.
+
